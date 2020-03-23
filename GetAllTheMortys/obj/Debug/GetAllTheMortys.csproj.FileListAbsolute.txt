@@ -1,0 +1,6 @@
+C:\Users\andre\source\repos\GetAllTheMortys\GetAllTheMortys\bin\Debug\GetAllTheMortys.exe.config
+C:\Users\andre\source\repos\GetAllTheMortys\GetAllTheMortys\bin\Debug\GetAllTheMortys.exe
+C:\Users\andre\source\repos\GetAllTheMortys\GetAllTheMortys\bin\Debug\GetAllTheMortys.pdb
+C:\Users\andre\source\repos\GetAllTheMortys\GetAllTheMortys\obj\Debug\GetAllTheMortys.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\GetAllTheMortys\GetAllTheMortys\obj\Debug\GetAllTheMortys.exe
+C:\Users\andre\source\repos\GetAllTheMortys\GetAllTheMortys\obj\Debug\GetAllTheMortys.pdb
